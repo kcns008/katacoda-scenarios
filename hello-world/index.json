@@ -12,8 +12,7 @@
       "credits": ""
     },
     "finish": {
-      "text": "finish.md",
-      "data-katacoda-hidefinish": "true"
+      "text": "finish.md"
     }
   },
   "environment": {
