@@ -13,12 +13,12 @@
     },
     "finish": {
       "text": "finish.md"
+      "data-katacoda-hidefinish": "true"
     }
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mHarrisburg U - Bash Tutorial\u001b[m\r\n",
-    "data-katacoda-hidefinish": "true"
+    "uimessage1": "\u001b[32mHarrisburg U - Bash Tutorial\u001b[m\r\n"
   },
   "backend": {
     "imageid": "bash"
