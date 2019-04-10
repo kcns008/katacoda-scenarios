@@ -1,8 +1,7 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Bash Tutorial",
+  "description": "By CISC - HPC",
   "difficulty": "beginner",
-  "time": "2 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
