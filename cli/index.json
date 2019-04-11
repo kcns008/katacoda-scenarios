@@ -1,14 +1,14 @@
 {
-  "title": "Demo From CLI",
-  "description": "Demo From CLI",
+  "title": "Bash Interactive",
+  "description": "Bash Interactive",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Intro Commands",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Your first Bash script with Vim",
         "text": "step2.md"
       },
       {
