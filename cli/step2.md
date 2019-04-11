@@ -31,6 +31,3 @@ To execute your first script, enter the bash my_first_script.sh command and the
 console will return a similar output:
 
 `bash my_first_script.sh`{{execute}}
-
-
-``{{execute}}
