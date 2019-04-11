@@ -12,7 +12,7 @@ The terminal window will transform into the Vim application (similar to the foll
 screenshot) and you will be just about ready to program your first script. Simultaneously
 press the Esc+ I keys to enter Insert mode; there will be an indicator in the bottom left and
 the cursor block will begin to flash:
-
+`i`{{execute}}
 
 `echo "Hello world! This is my first Bash script!"
 echo -n "I am executing the script with user: "
