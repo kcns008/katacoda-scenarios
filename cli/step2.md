@@ -1,9 +1,4 @@
-first see where your terminal is
-currently navigated to,
-
-`pwd`{{execute}}
-
- and to create the script using vim:
+To create the script using vim:
 
 `vim my_first_script.sh`{{execute}}
 
