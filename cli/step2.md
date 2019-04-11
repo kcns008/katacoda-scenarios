@@ -14,8 +14,7 @@ press the Esc+ I keys to enter Insert mode; there will be an indicator in the bo
 the cursor block will begin to flash:
 
 
-`#!/bin/bash
-echo "Hello world! This is my first Bash script!"
+`echo "Hello world! This is my first Bash script!"
 echo -n "I am executing the script with user: "
 whoami
 echo -n "I am currently running in the directory: "
