@@ -1,0 +1,3 @@
+- The student will be using a hosted environment that is created just for them.
+- Each environment is limited to a one hour session.
+- This environment is not shared with other users of the system. 
