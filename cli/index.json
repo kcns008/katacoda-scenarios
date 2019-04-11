@@ -25,6 +25,7 @@
   },
   "environment": {
     "uilayout": "terminal"
+    "hidefinish": true
   },
   "backend": {
     "imageid": "bash"
