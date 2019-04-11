@@ -8,7 +8,7 @@ To Start Writing inyo File
 
 Start Writting content:
 
-`echo "Hello world! This is my first Bash script!"`{{execute}}
+`echo "Hello world! This is my first Bash script From HPC CISC - Harrisburg U !"`{{execute}}
 
 The echo command can be used to print text to the console or into files, and the -n flag 
 prints text without the end line character (end line has the same effect as pressing Enter on the keyboard)
