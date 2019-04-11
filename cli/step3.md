@@ -8,6 +8,14 @@ of PI (3.14), then we could use a variable like this short script snippet:
 
 `PI=3.14`{{execute}}
 
-Now Print PI vaulue
+Now Print PI vaulue $PI
 
 `echo "The value of PI is $PI"`{{execute}}
+
+Notice that the idea of setting a value (3.14) to a variable is called assignment.
+We assigned the value of 3.14 to a variable with the name PI. We also referred to the PI
+variable using $PI. This can be achieved in a number of ways:
+
+`echo "1. The value of PI is $PI"`{{execute}}
+`echo "2. The value of PI is ${PI}"`{{execute}}
+`echo "3. The value of PI is" $PI`{{execute}}
