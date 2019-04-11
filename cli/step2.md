@@ -9,6 +9,8 @@ currently navigated to,
 
 `vim my_first_script.sh`{{execute}}
 
+To Start Writing inyo File
+
 `i`{{execute}}
 
 `echo "Hello world! This is my first Bash script!"
@@ -22,7 +24,7 @@ exit 0
 
 The terminal window will transform into the Vim application (similar to the following
 screenshot) and you will be just about ready to program your first script. Simultaneously
-press the **Esc + : w q ! * to exit Vim
+press the ** Esc + : w q ! ** to exit Vim
 
 ``{{execute}}
 
