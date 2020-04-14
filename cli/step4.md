@@ -1,4 +1,3 @@
-Conditional logic using if, else, and elseif
 The previous section introduced the concept that there are several reserved words and a
 number of characters that have an effect on the operation of Bash. The most basic, and
 probably most widely used conditional logic is with if and else statements. Let's use an
