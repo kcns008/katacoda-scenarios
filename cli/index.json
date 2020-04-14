@@ -14,6 +14,10 @@
       {
         "title": "Creating and using basic variables",
         "text": "step3.md"
+      },
+      {
+        "title": "Conditional logic using if, else, and elseif",
+        "text": "step4.md"
       }
     ],
     "intro": {
