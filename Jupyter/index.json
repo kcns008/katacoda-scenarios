@@ -6,18 +6,6 @@
       {
         "title": "Intro Commands",
         "text": "step1.md"
-      },
-      {
-        "title": "Your first Bash script with Vim",
-        "text": "step2.md"
-      },
-      {
-        "title": "Creating and using basic variables",
-        "text": "step3.md"
-      },
-      {
-        "title": "Conditional logic using if, else, and elseif",
-        "text": "step4.md"
       }
     ],
     "intro": {
@@ -33,9 +21,7 @@
     "hidefinish": true,
     "showdashboard": true,
     "dashboards": [
-        {"name": "URL", "href": "https://www.katacoda.com"},
-        {"name": "Port 80", "port": 80},
-        {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com"}],
+      {"name": "HPC Jupyterhub", "href": "https://pymaster.lab.harrisburgu.cloud/"},
     "uilayout": "terminal-iframe"
   },
   "backend": {
