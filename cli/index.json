@@ -30,7 +30,7 @@
   "environment": {
     "uilayout": "terminal",
     "uimessage1": "\u001b[32m HPC CISC - Harrisburg U\u001b[m\r\n",
-    "hidefinish": true
+    "hidefinish": true,
     "showdashboard": true,
     "dashboards": [
         {"name": "URL", "href": "https://www.katacoda.com"},
