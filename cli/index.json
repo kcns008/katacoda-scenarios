@@ -31,6 +31,12 @@
     "uilayout": "terminal",
     "uimessage1": "\u001b[32m HPC CISC - Harrisburg U\u001b[m\r\n",
     "hidefinish": true
+    "showdashboard": true,
+    "dashboards": [
+        {"name": "URL", "href": "https://www.katacoda.com"},
+        {"name": "Port 80", "port": 80},
+        {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com"}],
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "bash"
