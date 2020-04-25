@@ -33,7 +33,7 @@
     "hidefinish": true,
     "showdashboard": true,
     "dashboards": [
-        {"name": "HPC Jupyterhub", "href": "https://pymaster.lab.harrisburgu.cloud/"},
+        {"name": "HPC Jupyterhub", "href": "https://pymaster.lab.harrisburgu.cloud/user/3cemv8v2h6wfy5fk2xl3hzqq/tree?"},
     "uilayout": "terminal-iframe"
   },
   "backend": {
